@@ -54,6 +54,7 @@ body {
     gap: 40px;
     border-radius: 16px;
     align-items: center; /* Alinhar conteúdo à parte superior */
+    margin-top: 40px;
 }
 
 
@@ -73,6 +74,7 @@ body {
     font-size: 1.5rem;
     text-align: justify;
     font-family: var(--fonte-secundaria);
+    margin-bottom: 40px;
 }
 
 .apresentacao__botoes {
