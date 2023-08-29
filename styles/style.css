@@ -72,6 +72,7 @@ body {
 .apresentacao__conteudo__paragrafo {
     font-size: 1.5rem;
     text-align: justify;
+    font-family: var(--fonte-secundaria);
 }
 
 .apresentacao__botoes {
@@ -117,7 +118,7 @@ body {
     border-radius: 16px;
     border: 2px solid var(--cor-terciaria);
     position: relative;
-    left: 80px;
+    left: 40px;
     margin-top: -400px; /* Remova o ajuste de margem superior */
 }
 
@@ -151,6 +152,7 @@ body {
     .imagem{
         margin-top: 50px;
         margin-right: 80px;
+        
     }
     
 }
